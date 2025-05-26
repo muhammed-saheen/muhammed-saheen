@@ -52,20 +52,4 @@
 
 ---
 
-## 🧩 Clean & Microservice Architecture in Practice
 
-```csharp
-public class ApplicationArchitect
-{
-    private const string CoreValues = "Scalability × Maintainability × Simplicity";
-
-    public Solution Build()
-    {
-        return new Solution()
-            .AddDomain("C#", "Business Logic", "Entity Models")
-            .AddApplication("CQRS", "DTOs", "Service Interfaces")
-            .AddInfrastructure(".NET Core", "EF Core", "Dapper", "ADO.NET", "SQL Server", "MySQL")
-            .AddMicroservices("Docker", "REST APIs", "Service Discovery", "Independent Deployments")
-            .AddFrontend("React", "Next.js", "Tailwind CSS");
-    }
-}

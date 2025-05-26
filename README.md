@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedsaheen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammed-saheen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180" height="180" alt="Coding Cat"/>
 </div>
 
@@ -29,7 +29,7 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedsaheen&theme=github-compact&hide_border=true&area=true&custom_title=Muhammed%20Saheen's%20Development%20Activity" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-saheen&theme=github-compact&hide_border=true&area=true&custom_title=Muhammed%20Saheen's%20Development%20Activity" width="90%"/>
 </div>
 
 ---

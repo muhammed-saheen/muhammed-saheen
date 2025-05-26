@@ -70,7 +70,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammed-saheen/muhammed-saheen/main/assets/footer.svg" alt="Footer" />
-</div>
